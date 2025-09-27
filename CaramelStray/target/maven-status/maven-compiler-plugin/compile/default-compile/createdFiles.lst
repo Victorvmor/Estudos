@@ -1,0 +1,11 @@
+br\com\AllTallent\model\Perfil.class
+br\com\AllTallent\repository\AreaRepository.class
+br\com\AllTallent\CaramelStrayApplication.class
+br\com\AllTallent\controller\AreaController.class
+br\com\AllTallent\controller\PerfilController.class
+br\com\AllTallent\model\Funcionario.class
+br\com\AllTallent\repository\PerfilRepository.class
+br\com\AllTallent\config\CorsConfig.class
+br\com\AllTallent\repository\FuncionarioRepository.class
+br\com\AllTallent\controller\FuncionarioController.class
+br\com\AllTallent\model\Area.class
